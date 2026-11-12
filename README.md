@@ -143,7 +143,7 @@ The PNG files are **terminal-style renders of actual program output**, captured 
 
 ## GitHub repository
 
-https://github.com/Navin-13/algorithm-Battle
+https://github.com/nperern/Algorithm_Battle.git
 
 ## Report
 
